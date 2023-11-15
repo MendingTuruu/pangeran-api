@@ -1,7 +1,7 @@
 {
-  "name": "caliph-api",
+  "name": "pangeran-api",
   "version": "1.0.0",
-  "description": "Simple API by Caliph",
+  "description": "Simple API by Pangeran",
   "depecrated": false,
   "main": "index.js",
   "directories": {
@@ -26,7 +26,7 @@
   ],
   "homepage": "https://caliph-api.js.org/",
   "author": {
-    "name": "caliphdev",
+    "name": "pangeran",
     "email": "admin@caliph.my.id"
   },
   "repository": {
@@ -38,18 +38,18 @@
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "axios": "^0.27.0",
-    "cheerio": "^1.0.0-rc.5",
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
     "cookie": "^0.5.0",
-    "@vitalets/google-translate-api": "^8.0.0",
+    "@vitalets/google-translate-api": "^9.2.0",
     "uglify-js": "^3.15.3",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.2.6",
     "yt-search": "^2.7.4",
     "file-type": "^16.5.3",
     "form-data": "^4.0.0",
     "mathjs": "^11.0.0",
     "ytdl-core": "github:fent/node-ytdl-core",
-    "whois": "latest",
+    "whois": "^2.14.0",
     "instatouch": "^2.3.14",
     "mime": "^1.6.0",
     "fs": "^0.0.1-security",
